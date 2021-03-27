@@ -1,0 +1,13 @@
+---
+name: Spell Check - Workflow
+# Trigger the workflow on push to any branch except master
+on:
+  push:
+jobs:
+  spell-check:
+    name: markdown spell check
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - uses: rojopolis/spellcheck-github-actions@0.12.0
+      name: Spellcheck

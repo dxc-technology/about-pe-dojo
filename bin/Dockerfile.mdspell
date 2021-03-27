@@ -1,0 +1,7 @@
+FROM node:argon
+
+# Install spellcheck
+RUN npm i markdown-spellcheck -g
+
+ENTRYPOINT ["mdspell"]
+CMD ["--help"]
