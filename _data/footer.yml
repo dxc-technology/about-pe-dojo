@@ -1,0 +1,13 @@
+# Footer navigation links
+
+- title: Home
+  url: /
+
+- title: Modules
+  url: /modules/
+
+- title: Blog
+  url: /blog/
+
+- title: About
+  url: /about/

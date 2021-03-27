@@ -1,0 +1,58 @@
+# Site wide configuration
+
+title: Online Product Engineering Dojo
+katacoda_account: online_devops_dojo
+katacoda_course: online-pe-dojo
+description: Interactive training for tech topics
+logo: # 120x120 px default image used for Twitter summary card
+teaser: # 400x250 px default teaser image used in image archive grid
+locale: en
+url: https://dxc-technology.github.io/about-pe-dojo
+
+# Jekyll configuration
+
+sass:
+  sass_dir: _sass
+  style: compressed
+permalink: /:categories/:title/
+kramdown:
+  toc_levels: 1..2
+highlighter: rouge
+plugins:
+  - jekyll-sitemap
+  - jekyll-gist
+
+
+# Octopress configuration
+defaults:
+  - scope:
+      path: "blog"
+      type: article
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+
+collections:
+  blog:
+    output: true
+    permalink: /:collection/:path/
+
+# Default extensions
+post_ext: md
+page_ext: md
+
+# Found in _templates/
+post_layout: article
+page_layout: article
+
+include:
+  - _pages
+
+# Format titles with titlecase?
+titlecase: true
+
+exclude: ["vendor", "lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
