@@ -1,0 +1,8 @@
+{
+    "ignorePatterns": [
+        {"pattern": ".spelling"},
+        {"pattern": "/workflows/"},
+        {"pattern": "/actions?"}
+    ],
+    "aliveStatusCodes": [200,206,429]
+}

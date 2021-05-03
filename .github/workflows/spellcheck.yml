@@ -1,6 +1,6 @@
 ---
 name: Spell Check - Workflow
-# Trigger the workflow on push to any branch except master
+# Trigger the workflow on push to any branch including main
 on:
   push:
 jobs:
