@@ -15,7 +15,7 @@ permalink: /about/
 
 ## What is {{site.title}}?
 
-A collection of Product Engineering interactive learning modules leveraging the [Katacoda](https://katacoda.com){:target="_blank" rel="noopener"} online learning platform and released under the [Mozilla Public License 2.0](https://github.com/dxc-technology/online-pe-dojo/blob/master/LICENSE).
+A collection of Product Engineering interactive learning modules leveraging the [Katacoda](https://katacoda.com){:target="_blank" rel="noopener"} online learning platform and released under the [Mozilla Public License 2.0](https://github.com/dxc-technology/online-pe-dojo/blob/main/LICENSE).
 
 We are making the Online Product Engineering Dojo available to the community, in the hope
 they will find it useful. Our goal is not to offer trainings as a service, but to contribute a set of learning experiences to the community to help with the adoption of Product Engineering.

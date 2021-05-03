@@ -70,7 +70,7 @@ The modules provide a very interactive experience in which you can follow the st
 
 ## Open Source
 
-The Online Product Engineering Dojo learning modules are released under the [Mozilla Public License 2.0](https://github.com/dxc-technology/online-pe-dojo/blob/master/LICENSE).
+The Online Product Engineering Dojo learning modules are released under the [Mozilla Public License 2.0](https://github.com/dxc-technology/online-pe-dojo/blob/main/LICENSE).
 
 We are making the Online Product Engineering Dojo available to benefit the entire development community. We hope the modules will be useful. Our primary goal is to contribute a set of DevOps learning experiences so the community can assemble and create more content in support of DevOps adoption. (It is not about offering training as a service.)
 
