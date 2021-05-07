@@ -1,17 +1,17 @@
 ---
 layout: katacoda-fs
-title: "Welcome and Setup"
+title: "Getting Started"
 categories: katacoda
-excerpt: "Overview of the Online Product Engineering Dojo: the back story, our cast & the opportunity."
+excerpt: "Getting started with Product Engineering."
 tags: [online-pe-dojo]
 image:
-  teaser: welcome.png
+  teaser: getting.started.png
 share: true
-order: 100
+order: 120
 walkthrough: false
 
-katacoda_scenario: welcome
-katacoda_next_scenario: pe2-introduction
+katacoda_scenario: getting-started
+katacoda_next_scenario: pe-assignment
 ---
 
 <script src="//katacoda.com/embed.js"></script>

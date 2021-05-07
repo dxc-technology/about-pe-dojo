@@ -1,17 +1,17 @@
 ---
 layout: katacoda-fs
-title: "Getting Started"
+title: "Design Thinking"
 categories: katacoda
-excerpt: "Getting started with Product Engineering."
+excerpt: "Learn about the role of Design Thinking in Product Engineering."
 tags: [online-pe-dojo]
 image:
-  teaser: getting.started.png
+  teaser: design.thinking.png
 share: true
-order: 120
+order: 110
 walkthrough: false
 
-katacoda_scenario: getting-started
-katacoda_next_scenario: pe5-assignment
+katacoda_scenario: design-thinking
+katacoda_next_scenario: pe-getting-started
 ---
 
 <script src="//katacoda.com/embed.js"></script>

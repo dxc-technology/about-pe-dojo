@@ -1,17 +1,17 @@
 ---
 layout: katacoda-fs
-title: "Design Thinking"
+title: "Introduction"
 categories: katacoda
-excerpt: "Learn about the role of Design Thinking in Product Engineering."
+excerpt: "Introduction to Product Engineering."
 tags: [online-pe-dojo]
 image:
-  teaser: design.thinking.png
+  teaser: introduction.png
 share: true
-order: 110
+order: 105
 walkthrough: false
 
-katacoda_scenario: design-thinking
-katacoda_next_scenario: pe4-getting-started
+katacoda_scenario: introduction
+katacoda_next_scenario: pe-design-thinking
 ---
 
 <script src="//katacoda.com/embed.js"></script>
@@ -23,4 +23,3 @@ katacoda_next_scenario: pe4-getting-started
     data-katacoda-font="Arial"
     data-katacoda-fontheader="Arial"
     style="height: calc(100vh); width: (100% - 68px); padding-top: 55px;"></div>
-<br>

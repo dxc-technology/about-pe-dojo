@@ -1,17 +1,17 @@
 ---
 layout: katacoda-fs
-title: "Introduction"
+title: "Welcome and Setup"
 categories: katacoda
-excerpt: "Introduction to Product Engineering."
+excerpt: "Overview of the Online Product Engineering Dojo: the back story, our cast & the opportunity."
 tags: [online-pe-dojo]
 image:
-  teaser: introduction.png
+  teaser: welcome.png
 share: true
-order: 105
+order: 100
 walkthrough: false
 
-katacoda_scenario: introduction
-katacoda_next_scenario: pe3-design-thinking
+katacoda_scenario: welcome
+katacoda_next_scenario: pe-introduction
 ---
 
 <script src="//katacoda.com/embed.js"></script>
@@ -23,3 +23,4 @@ katacoda_next_scenario: pe3-design-thinking
     data-katacoda-font="Arial"
     data-katacoda-fontheader="Arial"
     style="height: calc(100vh); width: (100% - 68px); padding-top: 55px;"></div>
+<br>
