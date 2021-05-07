@@ -11,7 +11,7 @@ order: 110
 walkthrough: false
 
 katacoda_scenario: design-thinking
-katacoda_next_scenario: pe4-getting-started
+katacoda_next_scenario: pe-getting-started
 ---
 
 <script src="//katacoda.com/embed.js"></script>
