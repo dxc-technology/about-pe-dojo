@@ -11,7 +11,7 @@ order: 120
 walkthrough: false
 
 katacoda_scenario: getting-started
-katacoda_next_scenario: os5-assignment
+katacoda_next_scenario: pe5-assignment
 ---
 
 <script src="//katacoda.com/embed.js"></script>
