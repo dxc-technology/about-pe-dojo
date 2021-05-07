@@ -11,7 +11,7 @@ order: 100
 walkthrough: false
 
 katacoda_scenario: welcome
-katacoda_next_scenario: pe2-introduction
+katacoda_next_scenario: pe-introduction
 ---
 
 <script src="//katacoda.com/embed.js"></script>
