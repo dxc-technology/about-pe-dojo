@@ -2,7 +2,7 @@
 
 This repository contains the Online Product Engineering Dojo website.
 
-The Product Engineering White Belt Dojo is a set of interactive modules which cover Product Engineering culture and practices.
+TheOnline  Product Engineering Dojo is a set of interactive modules which cover Product Engineering culture and practices.
 
 The website is hosted directly from this repository you can access the website at [https://dxc-technology.github.io/about-pe-dojo/](https://dxc-technology.github.io/about-pe-dojo/).
 
