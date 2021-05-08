@@ -1,6 +1,6 @@
 ---
 layout: katacoda-fs
-title: "Welcome and Setup"
+title: "Welcome"
 categories: katacoda
 excerpt: "Overview of the Online Product Engineering Dojo: the back story, our cast & the opportunity."
 tags: [online-pe-dojo]
