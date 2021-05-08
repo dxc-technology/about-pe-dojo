@@ -1,9 +1,9 @@
 # Site wide configuration
 
 title: Online Product Engineering Dojo
-katacoda_account: thalpin2
+katacoda_account: online-pe-dojo
 katacoda_course: online-pe-dojo
-description: Interactive training for Product Engineering
+description: Interactive training on Product Engineering
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
 locale: en
