@@ -10,13 +10,13 @@ share: true
 order: 105
 walkthrough: false
 
-katacoda_scenario: introduction
+katacoda_scenario: pe-introduction
 katacoda_next_scenario: pe-design-thinking
 ---
 
 <script src="//katacoda.com/embed.js"></script>
 <div id="katacoda-scenario-1"
-    data-katacoda-id="online-pe-dojo/courses/{{ site.katacoda_course }}/pe-introduction"
+    data-katacoda-id="{{ site.katacoda_account }}/courses/{{ site.katacoda_course }}/{{ page.katacoda_scenario }}"
     data-katacoda-ctatext="Continue Online Product Engineering Dojo"
     data-katacoda-ctaurl="{{ site.url }}/katacoda/{{ page.katacoda_next_scenario }}"
     data-katacoda-color="004d7f"
