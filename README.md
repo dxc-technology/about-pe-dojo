@@ -1,6 +1,6 @@
 # Online Product Engineering Dojo - GitHub Pages Website
 
-This repository contains the Online Product Engineering Dojo website.
+This repository contains the content for and hosts the Online Product Engineering Dojo website.
 
 The Online Product Engineering Dojo is a set of interactive modules which cover Product Engineering culture and practices.
 
