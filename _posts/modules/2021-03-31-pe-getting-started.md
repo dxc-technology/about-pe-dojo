@@ -10,7 +10,7 @@ share: true
 order: 120
 walkthrough: false
 
-katacoda_scenario: getting-started
+katacoda_scenario: pe-getting-started
 katacoda_next_scenario: pe-assignment
 ---
 
