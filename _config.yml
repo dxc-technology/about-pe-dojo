@@ -1,7 +1,7 @@
 # Site wide configuration
 
 title: Online Product Engineering Dojo
-katacoda_account: online_devops_dojo
+katacoda_account: online-pe-dojo
 katacoda_course: online-pe-dojo
 description: Interactive training for tech topics
 logo: # 120x120 px default image used for Twitter summary card
