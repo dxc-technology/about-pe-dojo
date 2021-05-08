@@ -10,13 +10,13 @@ share: true
 order: 100
 walkthrough: false
 
-katacoda_scenario: welcome
+katacoda_scenario: pe-welcome
 katacoda_next_scenario: pe-introduction
 ---
 
 <script src="//katacoda.com/embed.js"></script>
 <div id="katacoda-scenario-1"
-    data-katacoda-id="thalpin2/courses/{{ site.katacoda_course }}/{{ page.katacoda_scenario }}"
+    data-katacoda-id="{{ site.katacoda_account }}/courses/{{ site.katacoda_course }}/{{ page.katacoda_scenario }}"
     data-katacoda-ctatext="Continue Online Product Engineering Dojo"
     data-katacoda-ctaurl="{{ site.url }}/katacoda/{{ page.katacoda_next_scenario }}"
     data-katacoda-color="004d7f"

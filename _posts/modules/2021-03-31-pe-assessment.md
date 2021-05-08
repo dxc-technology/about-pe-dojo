@@ -10,7 +10,7 @@ share: true
 order: 140
 walkthrough: false
 
-katacoda_scenario: assessment
+katacoda_scenario: pe-assessment
 katacoda_next_scenario:
 ---
 
