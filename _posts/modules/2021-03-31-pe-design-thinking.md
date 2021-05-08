@@ -10,7 +10,7 @@ share: true
 order: 110
 walkthrough: false
 
-katacoda_scenario: design-thinking
+katacoda_scenario: pe-design-thinking
 katacoda_next_scenario: pe-getting-started
 ---
 
