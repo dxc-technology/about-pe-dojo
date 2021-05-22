@@ -16,7 +16,7 @@ To learn more about the Online Product Engineering Dojo and the Pet Clinic multi
 
 * How organizations are pivoting some or all of their teams from a Project mindset where the primary focus is on time, scope and budget to a Product mindset where the primary focus is on speed, value and quality.
 
-* Universal Imports the group of companies led by the Charlie the CEO of Pet Clinic fame and our troupe of characters in the Pet Clinic multi-verse.
+* Universal Imports the group of companies led by the Charlie the CEO of Pet Clinic fame and our troupe of characters from the expanded Pet Clinic multi-verse.
 
 * What Miyagi the Product Engineering Coach and Mentor hired by Charlie to increase the use of Product Engineering within the United Imports group likes to do in his spare time.
 
