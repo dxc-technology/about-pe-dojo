@@ -24,6 +24,7 @@ blockquote
 btn
 calc
 cd
+centric
 Changelog
 CHANGELOG
 charset
@@ -96,6 +97,7 @@ infoq
 InfoQ
 InGen
 InGen's
+integrations
 io
 itrevolution
 Javascript
@@ -178,6 +180,7 @@ RubyInstaller
 SaC
 sachelp
 scaffolder
+scalability
 scm
 sequentialJobs
 semver
