@@ -11,7 +11,7 @@ order: 120
 walkthrough: false
 
 katacoda_scenario: pe-getting-started
-katacoda_next_scenario: pe-assignment
+katacoda_next_scenario: pe-assessment
 ---
 
 <script src="//katacoda.com/embed.js"></script>
@@ -23,4 +23,4 @@ katacoda_next_scenario: pe-assignment
     data-katacoda-font="Arial"
     data-katacoda-fontheader="Arial"
     style="height: calc(100vh); width: (100% - 68px); padding-top: 55px;"></div>
-<br>
+<br/>
