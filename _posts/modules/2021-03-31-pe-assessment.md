@@ -11,7 +11,7 @@ order: 140
 walkthrough: false
 
 katacoda_scenario: pe-assessment
-katacoda_next_scenario:
+katacoda_next_scenario: pe-welcome
 ---
 
 <script src="//katacoda.com/embed.js"></script>

@@ -23,4 +23,4 @@ katacoda_next_scenario: pe-getting-started
     data-katacoda-font="Arial"
     data-katacoda-fontheader="Arial"
     style="height: calc(100vh); width: (100% - 68px); padding-top: 55px;"></div>
-<br>
+    <br/>
