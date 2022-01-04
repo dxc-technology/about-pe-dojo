@@ -57,6 +57,8 @@ dojos
 dxc
 DXC
 DXC's
+eBook
+ebook
 educationcorner
 ejcK
 EO
