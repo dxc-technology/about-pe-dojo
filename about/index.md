@@ -20,6 +20,15 @@ A collection of Product Engineering interactive learning modules leveraging the 
 We are making the Online Product Engineering Dojo available to the community, in the hope
 they will find it useful. Our goal is not to offer trainings as a service, but to contribute a set of learning experiences to the community to help with the adoption of Product Engineering.
 
+## Media & Announcements
+
+The Online Product Engineering Dojo has been featured in various media, including,
+
+* [All Day DevOps 2021: Online Product Engineering Dojo](https://play.vidyard.com/DjYc8WbLRyMbj4yEWLMTNP?) (2021 Oct 28)
+  * Presentation by [Tom Halpin](https://github.com/tom-halpin), DXC DevOps Distinguished Engineer
+* [Product Engineering Dojo eBook](https://github.com/dxc-technology/ebook-pe-dojo) (2021 Nov 28)
+  * Published by [Tom Halpin](https://github.com/tom-halpin), DXC DevOps Distinguished Engineer
+
 ## Contributing
 
 You are welcome to fork the [Online Product Engineering Dojo](https://github.com/dxc-technology/online-pe-dojo) repository - which contains the source code for all the modules - to fix an issue, enhance or even add new modules.
